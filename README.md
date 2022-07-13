@@ -16,7 +16,7 @@ The steps for using the search criteria of the UFO webpage are listed below:
 1. Upon entering the webpage, locate the Filter Search area of the webpage (See the below image in the red box). Observe that each filter has a corresponding input box. 
 ![webpage01.png](https://github.com/daniel-sh-au/UofT_DataBC_Module011_UFOs/blob/main/static/images/webpage01.png)
 
-2. In the corresponding input box, type in the date, city, state, country, or/and shape to be filtered. Once entered, press the *enter* key on the keyboard or *left-click* outside the current input box to show the results. Note that multiple filters can be used to filter out UFO sightings. Three different filters are shown in the image below, each indicated by a different colour. 
+2. In the corresponding input box, type in the date, city, state, country, and/or shape to be filtered. Once entered, press the *enter* key on the keyboard or *left-click* outside the current input box to show the results. Note that multiple filters can be used to filter out UFO sightings. Three different filters, seperated by colour, are shown in the image below. 
 ![webpage02.png](https://github.com/daniel-sh-au/UofT_DataBC_Module011_UFOs/blob/main/static/images/webpage02.png)
 
 ## Summary
@@ -24,4 +24,4 @@ In a summary statement, describe one drawback of this new design and two recomme
 
 One drawback to this new webpage design is the lack of flexibility for selecting dates. Currently, only one date can be filtered at each time and the user must perform multiple searches for multiple dates. It would be more convenient if users could input a start and end date for filtering date ranges. 
 
-For future webpage development, 
+For future webpage development, it would be beneficial to allow users to enter a date range when filtering UFO sightings. This is especially useful if more data was added to the dataset. Another recommendation is to allow users to submit their own UFO sightings directly into the webpage. This can include adding a section with input boxes so the user can input corresponding data and adding a submit button to append that data to the end of the data object. 
