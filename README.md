@@ -20,8 +20,6 @@ The steps for using the search criteria of the UFO webpage are listed below:
 ![webpage02.png](https://github.com/daniel-sh-au/UofT_DataBC_Module011_UFOs/blob/main/static/images/webpage02.png)
 
 ## Summary
-In a summary statement, describe one drawback of this new design and two recommendations for further development.
-
 One drawback to this new webpage design is the lack of flexibility for selecting dates. Currently, only one date can be filtered at each time and the user must perform multiple searches for multiple dates. It would be more convenient if users could input a start and end date for filtering date ranges. 
 
-For future webpage development, it would be beneficial to allow users to enter a date range when filtering UFO sightings. This is especially useful if more data was added to the dataset. Another recommendation is to allow users to submit their own UFO sightings directly into the webpage. This can include adding a section with input boxes so the user can input corresponding data and adding a submit button to append that data to the end of the data object. 
+For future webpage development, it would be beneficial to allow users to enter a date range when filtering UFO sightings. This is especially useful if more data was added to the dataset. This can be completed by adding two input boxes and only displaying the dates between the range. Another recommendation is to allow users to submit their own UFO sightings directly into the webpage. This can be done by adding a section with input boxes so the user can enter corresponding data and adding a submit button to append that data into the data object. 
