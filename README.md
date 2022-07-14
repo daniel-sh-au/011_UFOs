@@ -13,10 +13,10 @@ To provide more in-depth analysis of UFO sightings, the webpage will be modified
 
 ## Results
 The steps for using the search criteria of the UFO webpage are listed below: 
-1. Upon entering the webpage, locate the Filter Search area of the webpage (See the below image in the red box). Observe that each filter has a corresponding input box. 
+1. Upon entering the webpage, locate the Filter Search area of the webpage (See the red box in the image below). Observe that each filter has a corresponding input box. 
 ![webpage01.png](https://github.com/daniel-sh-au/UofT_DataBC_Module011_UFOs/blob/main/static/images/webpage01.png)
 
-2. In the corresponding input box, type in the date, city, state, country, and/or shape to be filtered. Once entered, press the *enter* key on the keyboard or *left-click* outside the current input box to show the results. Note that multiple filters can be used to filter out UFO sightings. Three different filters, seperated by colour, are shown in the image below. 
+2. In the corresponding input box, type in the date, city, state, country, and/or shape to be filtered. Once entered, press the *enter* key on the keyboard or *left-click* outside the current input box to show the results. Note that multiple filters can be used to filter out UFO sightings. Three different filters seperated by colour are shown in the image below. 
 ![webpage02.png](https://github.com/daniel-sh-au/UofT_DataBC_Module011_UFOs/blob/main/static/images/webpage02.png)
 
 ## Summary
